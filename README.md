@@ -9,9 +9,13 @@ Techs for website
 
 ## API Reference
 to install json server run command
+
+
 npm install -g json-server
 
 
 to run JSON server follow command
+
+
 npx json-server --watch data/db.json --port 8000
 
